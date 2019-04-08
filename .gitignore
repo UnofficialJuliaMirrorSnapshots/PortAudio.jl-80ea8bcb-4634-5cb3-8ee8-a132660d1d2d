@@ -1,0 +1,10 @@
+*.swp
+*.o
+deps/deps.jl
+*.wav
+*.flac
+*.cov
+coverage
+deps/usr/lib/pa_shim.so
+deps/usr/lib/pa_shim.dylib
+deps/usr/lib/pa_shim.dll
